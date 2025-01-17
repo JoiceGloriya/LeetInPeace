@@ -16,6 +16,7 @@ class Node {
 class Solution {
     public Node copyRandomList(Node head) {
         if(head == null) return null;
+        // TC -> O(3N) SC -> O(N) -> this is reqd in the question.
         createCopyNodes(head);
         connectRandomPointers(head);  
         return connectNextPointers(head);
