@@ -8,6 +8,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0138-copy-list-with-random-pointer) |
@@ -22,5 +23,10 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
