@@ -29,4 +29,8 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
