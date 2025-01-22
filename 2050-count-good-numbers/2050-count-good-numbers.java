@@ -14,10 +14,9 @@ private long modularExponentiation(long base, long exp, long mod) {
     // long result = (half * half) % mod;
     // if (exp % 2 != 0) {
     //     result = (result * base) % mod;
-    // }
-    long MOD = 1000000007;
-    base = base % MOD;
-    if(base == 0) return 0;
+    // 
+    // base = base % 1000000007;
+    // if(base == 0) return 0;
     long result = 1;
     while(exp > 0) {
         if(exp % 2 == 1) result = (result * base) % 1000000007; 
