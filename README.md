@@ -46,4 +46,13 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0078-subsets) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
