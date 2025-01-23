@@ -5,8 +5,11 @@ class Solution {
         return list;
     }
 
+    // TC -> O(2^N) for each number in the array you have two choices, whether to include it or not
+    // SC -> O(N)
+
     void backtrack(int startIndex, int[] nums, List<List<Integer>> list, List<Integer> tempList) {
-        if (startIndex == nums.length) {
+        if (startIndex >= nums.length) {
             list.add(new ArrayList<>(tempList));
             return;
         }
