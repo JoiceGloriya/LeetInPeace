@@ -46,10 +46,12 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0078-subsets) |
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
