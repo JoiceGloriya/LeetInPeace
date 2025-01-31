@@ -20,6 +20,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
@@ -50,6 +51,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0051-n-queens) |
@@ -60,6 +62,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0051-n-queens) |
@@ -79,5 +82,6 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
