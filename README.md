@@ -82,6 +82,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0078-subsets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
 |  |
