@@ -14,9 +14,17 @@ class Solution {
         // }
         // return ans;
         //Betterrrr Approach:  TC -> O(N*logN + N / 3) SC -> O(1)
-        Arrays.sort(nums);
-        for(int i = 1; i < nums.length; i += 3)
-            if(nums[i-1] != nums[i]) return nums[i-1];
-        return nums[nums.length - 1];
+        // Arrays.sort(nums);
+        // for(int i = 1; i < nums.length; i += 3)
+        //     if(nums[i-1] != nums[i]) return nums[i-1];
+        // return nums[nums.length - 1];
+        // Optimal Approach: Buckets Concept:-
+        // TC -> O(N) SC -> O(1)
+        int ones = 0, twos = 0;
+        for(int i = 0; i < nums.length; i ++) {
+            ones = (ones ^ nums[i]) & (~ twos);
+            twos = (twos ^ nums[i]) & (~ones);
+        }
+return ones;
     }
 }
