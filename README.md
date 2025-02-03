@@ -77,6 +77,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0090-subsets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0137-single-number-ii) |
 | [0216-combination-sum-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0216-combination-sum-iii) |
+| [0260-single-number-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0090-subsets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
