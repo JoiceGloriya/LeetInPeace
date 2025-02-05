@@ -118,5 +118,6 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Database
 |  |
 | ------- |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
