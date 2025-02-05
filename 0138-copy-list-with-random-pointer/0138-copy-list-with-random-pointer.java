@@ -15,29 +15,32 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        if(head == null) return null;
-        // TC -> O(3N) SC -> O(N) -> this is reqd in the question.
+        if (head == null)
+            return null;
+        // TC -> O(3N) SC -> O(N) => [this is reqd in the question]
         createCopyNodes(head);
-        connectRandomPointers(head);  
+        connectRandomPointers(head);
         return connectNextPointers(head);
     }
 
     private void createCopyNodes(Node head) {
         Node temp = head;
-        while(temp != null) {
+        while (temp != null) {
             Node copyNode = new Node(temp.val);
             copyNode.next = temp.next;
             temp.next = copyNode;
             temp = temp.next.next;
-        } 
+        }
     }
 
     private void connectRandomPointers(Node head) {
         Node temp = head;
-        while(temp != null) {
+        while (temp != null) {
             Node copyNode = temp.next;
-            if(temp.random == null) copyNode.random = null;
-            else copyNode.random = temp.random.next;
+            if (temp.random == null)
+                copyNode.random = null;
+            else
+                copyNode.random = temp.random.next;
             temp = temp.next.next;
         }
     }
@@ -46,16 +49,17 @@ class Solution {
         Node dummyHead = new Node(-1);
         Node temp = head;
         Node dTemp = dummyHead;
-        while(temp != null) {
+        while (temp != null) {
             Node copyNode = temp.next;
             dTemp.next = copyNode;
-            temp.next = copyNode.next;
-            if(copyNode.next != null) copyNode.next = copyNode.next.next;
-            temp = temp.next;
             dTemp = dTemp.next;
+            temp.next = copyNode.next;
+            if (copyNode.next != null)
+                copyNode.next = copyNode.next.next;
+            temp = temp.next;
+            
         }
         return dummyHead.next;
     }
-
 
 }
