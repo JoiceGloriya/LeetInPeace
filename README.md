@@ -58,6 +58,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | ------- |
 | [0022-generate-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0042-trapping-rain-water) |
+| [0943-sum-of-subarray-minimums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0943-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0260-single-number-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0943-sum-of-subarray-minimums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0232-implement-queue-using-stacks](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0943-sum-of-subarray-minimums) |
 ## Design
 |  |
 | ------- |
@@ -150,4 +153,5 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0042-trapping-rain-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
