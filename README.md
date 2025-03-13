@@ -18,6 +18,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0061-rotate-list) |
+| [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0204-count-primes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0260-single-number-iii) |
+| [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0735-asteroid-collision) |
@@ -132,6 +134,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0225-implement-stack-using-queues](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0503-next-greater-element-ii) |
@@ -172,6 +175,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0084-largest-rectangle-in-histogram](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0503-next-greater-element-ii) |
@@ -187,6 +191,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0402-remove-k-digits) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
