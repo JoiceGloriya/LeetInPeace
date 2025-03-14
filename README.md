@@ -97,6 +97,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0239-sliding-window-maximum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0260-single-number-iii) |
 | [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
+| [0456-132-pattern](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0735-asteroid-collision) |
@@ -137,6 +138,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0316-remove-duplicate-letters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0735-asteroid-collision) |
@@ -181,6 +183,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0316-remove-duplicate-letters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0937-online-stock-span) |
@@ -215,4 +218,12 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0937-online-stock-span) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
