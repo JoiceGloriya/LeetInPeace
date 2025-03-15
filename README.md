@@ -13,6 +13,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0025-reverse-nodes-in-k-group](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
@@ -150,6 +152,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0232-implement-queue-using-stacks) |
@@ -226,4 +229,8 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0456-132-pattern) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
