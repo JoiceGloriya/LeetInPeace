@@ -1,8 +1,8 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        int no_of_fives = 0, no_of_tens = 0, no_of_twenties = 0;
         if(bills[0] != 5) return false;
-        for(int i = 0; i < bills.length; i ++) {
+        int no_of_fives = 1, no_of_tens = 0, no_of_twenties = 0;
+        for(int i = 1; i < bills.length; i ++) {
             if(bills[i] == 5)
                 no_of_fives++;
             else if(bills[i] == 10) {
