@@ -66,6 +66,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | ------- |
 | [0022-generate-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0943-sum-of-subarray-minimums) |
@@ -90,6 +91,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0039-combination-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0079-word-search) |
@@ -207,6 +209,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0402-remove-k-digits) |
