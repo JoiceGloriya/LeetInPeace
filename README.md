@@ -57,6 +57,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0020-valid-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0402-remove-k-digits) |
@@ -85,6 +86,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0079-word-search](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0282-expression-add-operators) |
 ## Array
 |  |
@@ -141,6 +143,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0144-binary-tree-preorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
@@ -283,6 +286,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0144-binary-tree-preorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -309,6 +313,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0144-binary-tree-preorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
