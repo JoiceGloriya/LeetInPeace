@@ -15,7 +15,7 @@ class Solution {
         TreeNode right = lowestCommonAncestor(root.right, p, q);
         if(left == null) return right;
         else if(right == null) return left;
-        else return root;
+        else return root;//both non-null, then p and q are from different subtrees
 
     }
 }
