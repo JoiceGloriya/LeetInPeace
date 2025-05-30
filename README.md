@@ -178,6 +178,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0144-binary-tree-preorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0316-remove-duplicate-letters) |
@@ -199,6 +200,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | ------- |
 | [0146-lru-cache](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -307,6 +309,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0124-binary-tree-maximum-path-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -347,6 +350,7 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 | [0124-binary-tree-maximum-path-sum](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -366,6 +370,11 @@ Welcome to *LeetInPeace*, a place where I keep all my LeetCode solutions. Feel f
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0173-binary-search-tree-iterator) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoiceGloriya/LeetInPeace/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/JoiceGloriya/LeetInPeace/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
