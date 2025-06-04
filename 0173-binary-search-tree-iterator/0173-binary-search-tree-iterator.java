@@ -29,13 +29,12 @@ class BSTIterator {
 
     public int next() {
         TreeNode node = stk.pop();
-        if (node.right != null) {
-            TreeNode temp = node.right;
-            while (temp != null) {
-                stk.push(temp);
-                temp = temp.left;
-            }
+        TreeNode temp = node.right;
+        while (temp != null) {
+            stk.push(temp);
+            temp = temp.left;
         }
+
         return node.val;
     }
 
